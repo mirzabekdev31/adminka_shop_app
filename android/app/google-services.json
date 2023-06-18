@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073090916871",
+    "project_id": "shop-app-6eee2",
+    "storage_bucket": "shop-app-6eee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073090916871:android:be52a06f78b0560b8470a2",
+        "android_client_info": {
+          "package_name": "com.example.adminka_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073090916871-g2u6od9dk9ifv30sadq8po0jt13ehorg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGpwDs8HkdfJbmkvas5VyWRLww9pc9MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073090916871-g2u6od9dk9ifv30sadq8po0jt13ehorg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
